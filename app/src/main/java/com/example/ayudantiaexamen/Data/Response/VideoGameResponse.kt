@@ -3,7 +3,7 @@ package com.example.ayudantiaexamen.Data.Response
 import com.google.gson.annotations.SerializedName
 
 data class VideoGameResponse (
-    v al id: Long,
+    val id: Long,
     val name: String,
     val released: String,
 
