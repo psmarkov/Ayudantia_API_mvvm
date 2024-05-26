@@ -1,4 +1,4 @@
-package com.example.ayudantiaexamen.View
+package com.example.ayudantiaexamen.Presentation.View
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
